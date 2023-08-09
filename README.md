@@ -19,6 +19,3 @@ The music data is encoded into integers for the input, with chords represented a
 
 Generation:
 The trained model generates sequences of 500 notes, starting from random indices in the input data. The output integers are decoded back into Music21 note and chord objects and written to a MIDI file.
-
-Results:
-The generated music exhibits basic melodic structure and alternates between notes and chords. There is room for improvement by training on more data, adding complexity, and experimenting with parameters.
