@@ -1,4 +1,4 @@
-# Automated-Music-Generation-using-Deep-Learning
+# Automated Music Generation using Deep Learning
 
 Create computer-generated monophonic musical content using a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM).
 
