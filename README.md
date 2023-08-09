@@ -10,7 +10,7 @@ Requirements:
 - Tensorflow
 - h5py
 
-Data:
+**Data:**
 
 The input data is piano music from the Final Fantasy video game soundtracks, selected for their melodic nature. There are 92 songs in the dataset with 352 different notes and chords.
 
