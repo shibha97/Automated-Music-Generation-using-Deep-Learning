@@ -3,7 +3,7 @@
 Create computer-generated monophonic musical content using a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM).
 
 
-Requirements:
+**Requirements:**
 - Python 3.x
 - Music21
 - Keras
