@@ -12,7 +12,7 @@ Generate musical content using a Recurrent Neural Network (RNN) with Long Short-
 
 # Data:
 
-Use your own data to create unique musical pieces. Recommendation: Use monophonic soundtracks for best results.
+Input data in "MIDI_FOLDER". Recommendation: Use monophonic soundtracks for best results.
 
 # Model:
 The model is an RNN with LSTM layers implemented in Keras and TensorFlow. Key components:
