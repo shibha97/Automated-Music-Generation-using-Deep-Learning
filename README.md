@@ -21,7 +21,6 @@ The model is an RNN with LSTM layers implemented in Keras and TensorFlow. Key co
 - Dropout layers for regularization
 - RMSprop optimizer
 - Categorical cross-entropy loss function
-The model is trained for 200 epochs.
 
 # Encoding:
 
