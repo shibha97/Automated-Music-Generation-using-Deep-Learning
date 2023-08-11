@@ -1,6 +1,6 @@
 # Automated Music Generation using Deep Learning
 
-Create computer-generated monophonic musical content using a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM).
+Generate computer-generated monophonic musical content using a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM).
 
 
 # Requirements:
