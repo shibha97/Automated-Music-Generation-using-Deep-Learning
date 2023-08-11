@@ -1,6 +1,6 @@
 
 """ 
-This module generates notes for a midi file using the trained neural network 
+This module generates notes for a midi file using the trained neural network from "model_lstm.py"
 """
 
 import pickle
