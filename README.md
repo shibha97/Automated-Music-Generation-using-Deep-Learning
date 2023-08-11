@@ -12,7 +12,7 @@ Create computer-generated monophonic musical content using a Recurrent Neural Ne
 
 # Data:
 
-The input data is piano music from the Final Fantasy video game soundtracks, selected for their melodic nature. There are 92 songs in the dataset with 352 different notes and chords.
+Use your own data to create unique musical pieces. Recommendation: Use monophonic soundtracks for best results.
 
 # Model:
 The model is an RNN with LSTM layers implemented in Keras and TensorFlow. Key components:
